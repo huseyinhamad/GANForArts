@@ -11,7 +11,7 @@
 
 ### Training the models
 - Download the models from link below and unzip it in the project directory   
-  `[https://drive.google.com/drive/folders/1ujGJoNCp-ylTfJRrLcKcFAVc84Avw0KL?usp=sharing](https://drive.google.com/drive/folders/1ujGJoNCp-ylTfJRrLcKcFAVc84Avw0KL?usp=sharing)`
+  `https://drive.google.com/drive/folders/1ujGJoNCp-ylTfJRrLcKcFAVc84Avw0KL?usp=sharing`
 - Run the train.ipynb notebook 
 
 ### Testing the model

@@ -2,16 +2,16 @@
 
 ### Steps for setting up the tool
 - Clone the repository using the command below.
-  `git clone https://github.com/huseyinhamad/AI-Group-Project.git`
+  `git clone https://github.com/huseyinhamad/GANForArts.git`
 - Navigate to the project directory using the command below
-  `cd AI-Group-Project/`
+  `cd GANForArts/`
 - Create your own virtual environment.
 - Run `pip install -r requirements.txt` to install the needed dependencies
 - Download the models and put them in the tool directory
 
 ### Training the models
 - Download the models from link below and unzip it in the project directory   
-  `https://drive.google.com/drive/folders/1ujGJoNCp-ylTfJRrLcKcFAVc84Avw0KL?usp=sharing`
+  `[https://drive.google.com/drive/folders/1ujGJoNCp-ylTfJRrLcKcFAVc84Avw0KL?usp=sharing](https://drive.google.com/drive/folders/1ujGJoNCp-ylTfJRrLcKcFAVc84Avw0KL?usp=sharing)`
 - Run the train.ipynb notebook 
 
 ### Testing the model
